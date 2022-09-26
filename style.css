@@ -198,7 +198,6 @@ body {
   .navbar_section1 li a {
     display: flex;
     gap: 10px;
-    display: none;
   }
 
   .block_button {
@@ -214,6 +213,15 @@ body {
     border: none;
     display: none;
   }
+  
+  .text button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border-radius: 20px;
+    border: 1px solid rgb(38, 92, 240);
+    color: rgb(38, 92, 240);
+    background-color: white;
+  }
 
   .block_button button:nth-child(3) {
     border-radius: 18px;
@@ -228,7 +236,6 @@ body {
     color: white;
     display: flex;
     gap: 10px;
-    display: none;
   }
 
   .second_section {
@@ -272,15 +279,6 @@ body {
   .text p {
     color: rgb(85, 83, 83);
     font-size: 1.5rem;
-  }
-  
-  .text button {
-    padding: 10px 20px;
-    font-size: 1.2rem;
-    border-radius: 20px;
-    border: 1px solid rgb(38, 92, 240);
-    color: rgb(38, 92, 240);
-    background-color: white;
   }
 
   .Nordic img {
