@@ -26,7 +26,6 @@ body {
   display: flex;
   justify-content: space-between;
   gap: 10px;
-  width: 80%;
   height: 500px;
   padding: 10px;
   width: 95%;
@@ -188,7 +187,6 @@ body {
   .navbar_section1 ul {
     display: flex;
     gap: 20px;
-    display: none;
   }
 
   .navbar_section1 li {
@@ -206,7 +204,6 @@ body {
   .block_button {
     display: flex;
     gap: 10px;
-    display: none;
   }
 
   .block_button button {
